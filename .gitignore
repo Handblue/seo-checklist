@@ -1,0 +1,6 @@
+credentials.json
+token.json
+*.xlsx
+ciktilar/
+denetim-*.md
+.env
